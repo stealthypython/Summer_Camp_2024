@@ -19,8 +19,6 @@ Python is like building with LEGOs, but instead of making spaceships, you make a
 
 ## I'm just getting started!
 
-I'm excited to keep learning and building even cooler things with Python.  Who knows, maybe I'll make the next big app or game! ✨
-
-**If you have any questions or want to say hi, you can reach me at [your email address].**  (Be sure to ask your parents before sharing your email online!)
+I'm excited to keep learning and building even cooler things with Python. ✨
 
 **Happy coding!** 🐍
