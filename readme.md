@@ -1,4 +1,4 @@
-# Anzie's Awesome Python Projects! 🚀
+# Python Projects! 🚀
 
 Hi there! I'm Anzie Ghimire, a 9-year-old Python programmer.  I built these cool projects at summer camp in 2024!
 
